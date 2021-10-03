@@ -1,0 +1,73 @@
+html{
+   background-image:-webkit-lin-gradient(lightblue ,pink );
+   
+  
+   
+   
+}
+header{
+    
+    color:black;
+    text-align:center;
+
+    padding: 1px;
+    box-sizing: border-box;
+}
+.box-a{
+    background:rgb(0, 0, 0);
+    box-sizing: border-box;
+    padding: 20px;
+}
+.box-a a{
+    color: white;
+    padding: 30px;
+    border: 30px;
+    text-decoration: none;
+    text-align: center;
+    place-items: center;
+    
+}
+.box-a a:hover{
+    padding-top:10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 5px;
+    color:black;
+    
+    background-color: white;
+}
+.box-b{
+    background-color:whitw;
+    color: black;
+    border: violet 2px;
+    margin-top: 20px;
+    padding: 10px;
+}
+.box-b th{
+   
+    padding-right: 10px;
+}
+.box-b input{
+    padding: 10px;
+    
+}
+/*.box-b input:hover{
+    border:4px rgb(0, 217, 255);
+}*/
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+ table td{
+    padding-left: 50px;
+    
+}
+.finalinfo{
+    padding: 30px;
+    text-align: center;
+}
+.finalinfo form{
+    padding: 20px;
+}

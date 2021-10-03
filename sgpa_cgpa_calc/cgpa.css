@@ -1,0 +1,52 @@
+/*html{
+    background: -webkit-linear-gradient(left, #3c4245,white);
+}*/
+header{
+    background-color:white;
+    color:black;
+    text-align:center;
+
+    padding: 1px;
+    box-sizing: border-box;
+}
+.box-a{
+    background-color: black;
+    box-sizing: border-box;
+    padding: 30px;
+}
+.box-a a{
+    color: white;
+    padding: 30px;
+    border: 30px;
+    text-decoration: none;
+}
+.box-a a:hover{
+    padding-top:10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 5px;
+    color:black;
+    
+    background-color: white;
+}
+.box-b{
+    background-color:black;
+    color: white;
+    display: block;
+    text-align: center;
+    
+    margin-left: 190px;
+    margin-right: 190px;
+    
+}
+.box-b form{
+    padding-bottom: 20px;
+    margin-left: 40px;
+    border-right: 40px;
+   
+}
+.box-b input{
+    padding: 10px;
+    
+}
